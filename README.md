@@ -45,7 +45,7 @@ O painel apresenta:
 
 *(adicione aqui uma imagem do painel final)*  
 
-![Dashboard Excel](imgs/dashboard.png)
+![Dashboard Excel](dashboard.png)
 
 ---
 
