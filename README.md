@@ -156,6 +156,24 @@ O painel interativo criado no Excel apresenta:
 
 > O dashboard fornece uma visão consolidada da performance comercial, facilitando a tomada de decisão baseada em dados.
 
+## **Insights – Visão Geral do Desempenho**
+
+### **Insight 1: Alon é o Destaque em Receita Total**
+- **Observação:** Alon lidera o ranking com **R$ 290.800**, superando todos os demais vendedores.
+- **Conclusão:** Seu desempenho é consistente ao longo do tempo, o que indica domínio sobre os produtos de maior margem, especialmente **VBA e Excel**.
+
+### **Insight 2: Crescimento Sazonal e Cumprimento de Metas**
+- **Observação:** O gráfico *Meta vs Receita* mostra que os meses de **junho, agosto e outubro** apresentaram picos acima da meta, com médias próximas de **R$ 50 mil mensais**.
+- **Conclusão:** A equipe alcançou performance sólida nos meses intermediários do ano, sugerindo que campanhas sazonais podem ter impulsionado as vendas.
+
+### **Insight 3: VBA e Excel impulsionam o portfólio**
+- **Observação:** No gráfico *Receita por Produto*, os produtos **VBA** e **Excel** têm curvas ascendentes no último trimestre, com forte retomada após julho.
+- **Conclusão:** Esses produtos sustentam o crescimento da receita e devem ser priorizados em marketing e formação técnica de vendas.
+
+### **Insight 4: Distribuição de Receita Equilibrada entre Vendedores**
+- **Observação:** Embora Alon lidere, há uma **diferença pequena entre os demais** (Diego, Gabriel e Paulo próximos dos R$ 285 mil).
+- **Conclusão:** Isso indica **competitividade saudável** e um time equilibrado, fator estratégico para manter estabilidade de receita.
+
 ---
 
 ## 🧠 Conclusão
