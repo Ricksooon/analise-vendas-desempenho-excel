@@ -176,13 +176,17 @@ O painel interativo criado no Excel apresenta:
 
 ---
 
-## 🧠 Conclusão
+## 🧠 **Conclusão**
 
-O projeto demonstra como o **Excel pode ser usado como uma ferramenta completa de análise de dados**, desde o tratamento até a visualização dos resultados.  
-Com base nessas análises, é possível:
-- Monitorar o atingimento das metas;
-- Identificar gargalos e oportunidades de crescimento;
-- Direcionar ações comerciais mais assertivas.
+O projeto evidencia a eficiência do **Microsoft Excel como uma ferramenta completa de Business Intelligence**, permitindo desde o tratamento e limpeza dos dados até a construção de um **painel interativo de alta performance** para análise de vendas.
+
+A análise mostrou uma **equipe comercial consistente**, com **75% dos meses acima das metas** e um **crescimento médio de 8% ao mês**.  
+Os produtos **VBA** e **Power BI** se consolidaram como os principais geradores de receita, enquanto **Excel** e **Word** atuaram como produtos de entrada estratégicos para atrair novos clientes e ampliar o portfólio.
+
+Entre os vendedores, **Alon** e **Paulo** se destacam por sua **estabilidade e evolução**, enquanto **Diego** é o **motor principal** dos produtos de maior valor agregado. Essa combinação demonstra **maturidade da equipe** e **potencial sólido de expansão**.
+
+💡 **Recomendações Estratégicas:**
+- 🔹 **Focar nos produtos premium (VBA e Power BI)**, de mai
 
 ---
 
