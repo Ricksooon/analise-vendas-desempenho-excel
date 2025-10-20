@@ -67,11 +67,24 @@ O projeto está contido em **um único arquivo Excel**, dividido nas seguintes a
 ### 👨‍💼 **2. Desempenho por Vendedor**
  ![Desempenho por Vendedo](img/performace_vendedor.PNG)
 
-- **Alon** liderou as vendas com **R$ 112.200**, superando a média da equipe.  
-- **Gabriel** e **Marcus** apresentaram desempenho sólido, com valores próximos de **R$ 100 mil**.  
-- **João** ficou abaixo da média, indicando espaço para capacitação.  
+## **Insights – Análise Vendedor (2019–2021)**
 
-> *Insight:* Existe dependência de poucos vendedores para atingir as metas — equilibrar as metas entre o time pode melhorar o resultado coletivo.
+### **Insight 1: Evolução Progressiva de Paulo**
+- **Observação:** Paulo começa com desempenho modesto em 2019, mas assume a liderança em 2021, ultrapassando R$ 100 mil.
+- **Conclusão:** Seu crescimento contínuo reflete **adaptação ao portfólio** e possível foco em produtos de alto valor, como Power BI e VBA.
+
+### **Insight 2: Alon mantém consistência**
+- **Observação:** Em 2019, Alon já liderava com quase **R$ 110 mil**, mantendo bom volume nos anos seguintes.
+- **Conclusão:** Ele é o vendedor mais constante e confiável da equipe, mantendo margem alta mesmo quando o mercado oscilou.
+
+### **Insight 3: Desempenho estável de Diego e Gabriel**
+- **Observação:** Ambos mantêm resultados entre **R$ 80 mil e R$ 95 mil** ao longo dos três anos.
+- **Conclusão:** São pilares de regularidade na operação e apresentam potencial para crescimento com estratégias de cross-sell.
+
+### **Insight 4: João teve pico isolado**
+- **Observação:** João se destaca em 2020, ultrapassando R$ 100 mil, mas cai em 2021.
+- **Conclusão:** Indica dependência de campanhas pontuais — há oportunidade de aprimorar constância e diversificação de produtos vendidos.
+
 
 ---
 
@@ -80,22 +93,24 @@ O projeto está contido em **um único arquivo Excel**, dividido nas seguintes a
 **(2019–2021)**
 
 
-### **Insight 1: Identificação Clara do Produto "Carro-Chefe"**
-- **Observação:** O produto **VBA** é, de longe, o maior gerador de receita da empresa, ultrapassando **R$ 88.000** em faturamento. Ele representa a principal fonte de renda e o pilar financeiro do negócio no período analisado.
-- **Conclusão para o Portfólio:** O **VBA** não é apenas um produto, é o **carro-chefe estratégico**. Qualquer campanha de marketing ou esforço de vendas deve priorizá-lo para maximizar os resultados.
+## **Insights – Receita por Produto**
 
-### **Insight 2: Segmentação de Performance do Portfólio**
-- **Observação:** Podemos categorizar os produtos em três níveis claros de performance de receita:
-  - **Nível Alto:** VBA (acima de R$ 80.000)  
-  - **Nível Médio:** Dashboard e Planilhas (entre R$ 40.000 e R$ 60.000)  
-  - **Nível Baixo:** Apresentações (abaixo de R$ 30.000)  
-- **Conclusão para o Portfólio:** Essa segmentação mostra que, embora o VBA seja o líder, os produtos de **Dashboard** e **Planilhas** formam uma base de receita sólida e secundária. O produto **Apresentações** apresenta desempenho significativamente inferior e precisa de atenção.
+### **Insight 1: Recuperação Acelerada de VBA**
+- **Observação:** O produto VBA tem retomada expressiva a partir de agosto, encerrando o ano com receita próxima de **R$ 60 mil**.
+- **Conclusão:** Reflete consolidação do VBA como produto premium e carro-chefe da empresa.
 
-### **Insight 3: Oportunidade Estratégica e Risco (Princípio de Pareto)**
-- **Observação:** O faturamento do **VBA (R$ 88.000)** é quase igual à soma do faturamento de **Planilhas (R$ 44.000)** e **Apresentações (R$ 22.000)** multiplicado por 1,3. Isso demonstra forte concentração de receita em um único produto, um clássico **Princípio de Pareto (80/20)**, onde um item responde pela maior parte do resultado.
-- **Conclusão para o Portfólio:**
-  - **Risco:** A saúde financeira da empresa tem alta dependência do sucesso contínuo do **VBA**. Uma queda nas vendas deste produto impactaria desproporcionalmente o faturamento total.
-  - **Oportunidade:** Há potencial em alavancar as vendas dos produtos de nível médio. Uma estratégia de **cross-selling**, oferecendo **Dashboard** ou **Planilhas** como complemento para clientes que compram o **VBA**, poderia diluir o risco e aumentar significativamente a receita total.
+### **Insight 2: Power BI mostra consistência**
+- **Observação:** Power BI mantém estabilidade entre R$ 25 mil e R$ 40 mil durante todo o período.
+- **Conclusão:** Indica base de clientes recorrentes e potencial de expansão com marketing técnico.
+
+### **Insight 3: Queda do Python e Reposicionamento Necessário**
+- **Observação:** Após forte início, o Python apresenta queda acentuada no segundo semestre.
+- **Conclusão:** Pode estar perdendo relevância comercial — vale investigar causas e reposicionar a comunicação do produto.
+
+### **Insight 4: Excel e Word mantêm presença complementar**
+- **Observação:** Ambos têm valores menores, mas estáveis, sustentando receitas auxiliares.
+- **Conclusão:** São produtos de entrada, ideais para atrair novos clientes e conduzir ao upsell de VBA e Power BI.
+
 
 ---
 
