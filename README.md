@@ -77,9 +77,23 @@ O projeto está contido em **um único arquivo Excel**, dividido nas seguintes a
 
 ### 📘 **3. Desempenho por Produto**
  ![Desempenho por Produto](img/receita_x_produto.PNG)
-- **Excel** e **VBA** representaram **45% da receita total**.  
-- **Python** manteve bom desempenho inicial, mas perdeu ritmo no segundo bimestre.  
-- **Power BI** apresentou crescimento constante, com potencial de expansão.
+**(2019–2021)**
+
+### **Excel e VBA**
+- Representam a maior parte da receita, com crescimento estável ao longo do período.
+- O mercado está maduro, com espaço limitado para expansão sem inovação.
+- **Recomendação:** Manter projetos estratégicos e explorar automações avançadas ou integração com Power BI/Python.
+
+### **Python**
+- Teve bom desempenho inicial, seguido de estabilização em alguns períodos.
+- Potencial de crescimento em análises avançadas e integração com outras ferramentas.
+- **Recomendação:** Expandir projetos de análise avançada e integração com bancos de dados para aumentar participação na receita.
+
+### **Power BI**
+- Crescimento consistente ao longo dos anos, com adoção crescente para dashboards e visualizações.
+- Maior potencial de expansão futura, podendo superar Excel/VBA em projetos estratégicos.
+- **Recomendação:** Intensificar criação de dashboards estratégicos e relatórios de visualização para consolidar adoção.
+
 
 > *Insight:* Power BI é o produto com maior potencial de crescimento futuro, devendo ser mais explorado em campanhas comerciais.
 
