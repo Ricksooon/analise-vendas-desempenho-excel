@@ -50,6 +50,8 @@ O projeto está contido em **um único arquivo Excel**, dividido nas seguintes a
 ## 💡 Principais Insights
 
 ### 📅 **1. Desempenho Mensal x Meta**
+ ![Desempenho Mensal x Meta](meta_x_receita.PNG)
+
 | Mês | Meta (R$) | Realizado (R$) | Diferença | Resultado |
 |-----|------------|----------------|------------|------------|
 | jan | 31.000 | 52.650 | +21.650 | ✅ Acima da meta |
