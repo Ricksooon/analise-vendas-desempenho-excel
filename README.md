@@ -79,23 +79,23 @@ O projeto está contido em **um único arquivo Excel**, dividido nas seguintes a
  ![Desempenho por Produto](img/receita_x_produto.PNG)
 **(2019–2021)**
 
-### **Excel e VBA**
-- Representam a maior parte da receita, com crescimento estável ao longo do período.
-- O mercado está maduro, com espaço limitado para expansão sem inovação.
-- **Recomendação:** Manter projetos estratégicos e explorar automações avançadas ou integração com Power BI/Python.
 
-### **Python**
-- Teve bom desempenho inicial, seguido de estabilização em alguns períodos.
-- Potencial de crescimento em análises avançadas e integração com outras ferramentas.
-- **Recomendação:** Expandir projetos de análise avançada e integração com bancos de dados para aumentar participação na receita.
+### **Insight 1: Identificação Clara do Produto "Carro-Chefe"**
+- **Observação:** O produto **VBA** é, de longe, o maior gerador de receita da empresa, ultrapassando **R$ 88.000** em faturamento. Ele representa a principal fonte de renda e o pilar financeiro do negócio no período analisado.
+- **Conclusão para o Portfólio:** O **VBA** não é apenas um produto, é o **carro-chefe estratégico**. Qualquer campanha de marketing ou esforço de vendas deve priorizá-lo para maximizar os resultados.
 
-### **Power BI**
-- Crescimento consistente ao longo dos anos, com adoção crescente para dashboards e visualizações.
-- Maior potencial de expansão futura, podendo superar Excel/VBA em projetos estratégicos.
-- **Recomendação:** Intensificar criação de dashboards estratégicos e relatórios de visualização para consolidar adoção.
+### **Insight 2: Segmentação de Performance do Portfólio**
+- **Observação:** Podemos categorizar os produtos em três níveis claros de performance de receita:
+  - **Nível Alto:** VBA (acima de R$ 80.000)  
+  - **Nível Médio:** Dashboard e Planilhas (entre R$ 40.000 e R$ 60.000)  
+  - **Nível Baixo:** Apresentações (abaixo de R$ 30.000)  
+- **Conclusão para o Portfólio:** Essa segmentação mostra que, embora o VBA seja o líder, os produtos de **Dashboard** e **Planilhas** formam uma base de receita sólida e secundária. O produto **Apresentações** apresenta desempenho significativamente inferior e precisa de atenção.
 
-
-> *Insight:* Power BI é o produto com maior potencial de crescimento futuro, devendo ser mais explorado em campanhas comerciais.
+### **Insight 3: Oportunidade Estratégica e Risco (Princípio de Pareto)**
+- **Observação:** O faturamento do **VBA (R$ 88.000)** é quase igual à soma do faturamento de **Planilhas (R$ 44.000)** e **Apresentações (R$ 22.000)** multiplicado por 1,3. Isso demonstra forte concentração de receita em um único produto, um clássico **Princípio de Pareto (80/20)**, onde um item responde pela maior parte do resultado.
+- **Conclusão para o Portfólio:**
+  - **Risco:** A saúde financeira da empresa tem alta dependência do sucesso contínuo do **VBA**. Uma queda nas vendas deste produto impactaria desproporcionalmente o faturamento total.
+  - **Oportunidade:** Há potencial em alavancar as vendas dos produtos de nível médio. Uma estratégia de **cross-selling**, oferecendo **Dashboard** ou **Planilhas** como complemento para clientes que compram o **VBA**, poderia diluir o risco e aumentar significativamente a receita total.
 
 ---
 
