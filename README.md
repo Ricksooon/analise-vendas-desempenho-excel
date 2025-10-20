@@ -1,6 +1,6 @@
 # 📊 Análise de Vendas e Desempenho Comercial
 
-Projeto desenvolvido em **Microsoft Excel**, com o objetivo de analisar o desempenho de vendas ao longo dos meses, comparando os resultados com as metas mensais e identificando oportunidades de melhoria em produtos, vendedores e regiões.
+Projeto desenvolvido em **Microsoft Excel**, com o objetivo de analisar o desempenho de vendas ao longo dos meses, comparando os resultados com as metas mensais e identificando oportunidades de melhoria em produtos, vendedores.
 
 ---
 
