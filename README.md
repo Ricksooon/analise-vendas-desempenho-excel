@@ -99,14 +99,26 @@ O projeto está contido em **um único arquivo Excel**, dividido nas seguintes a
 
 ---
 
-### 🌎 **4. Desempenho por Região**
-- **Norte e Sudeste** são as regiões com maior faturamento.  
-- **Centro-Oeste** e **Sul** têm menor representatividade.  
-- O **ticket médio** mais alto foi identificado na região **Norte**.
+### 🌎 **4. Vendas de Produto por Vendedo**
+ ![Desempenho por Produto](img/vendedor_x_produto.PNG)
 
-> *Insight:* A expansão de clientes nas regiões menos representadas pode aumentar o faturamento geral.
+## **Insights – Vendas de Produto por Vendedor**
 
----
+### **Insight 1: A Dupla Dominância de Diego**
+- **Observação:** Diego (barra azul) é o vendedor dominante nos dois produtos mais estratégicos do portfólio: **Planilhas** (alto volume) e **VBA** (maior valor agregado).  
+- **Conclusão Estratégica:** A performance de Diego é o motor principal do sucesso de dois produtos-chave. Sua habilidade em vender tanto produtos de entrada quanto premium explica seu alto desempenho em faturamento e volume.
+
+### **Insight 2: O Perfil Generalista de Fernanda**
+- **Observação:** Fernanda (barra laranja) se destaca por sua versatilidade, registrando volume relevante em todas as quatro categorias de produto.  
+- **Conclusão Estratégica:** Fernanda funciona como um "pilar de estabilidade" da equipe. Há oportunidade de treiná-la para aprofundar vendas no produto **VBA**, unindo sua versatilidade com alto retorno financeiro.
+
+### **Insight 3: Especialização Focada de Patricia e Oportunidade para Amanda**
+- **Observação:** Patricia (barra cinza) concentra quase todas as vendas em **Dashboard** e **Planilhas**, enquanto Amanda (barra amarela) também vende nesses produtos, mas com volume menor.  
+- **Conclusão Estratégica:** Patricia tem um nicho de sucesso definido. Amanda poderia ser mentorada por Patricia para aprimorar técnicas de vendas. Ambas têm potencial de crescimento se capacitadas para vender também o **VBA**.
+
+### **Insight 4: A Sinergia entre "Planilhas" e "VBA"**
+- **Observação:** Diego e Fernanda são os vendedores que mais vendem a combinação de **Planilhas** e **VBA**.  
+- **Conclusão Estratégica:** Existe sinergia natural entre esses produtos. Clientes que compram **Planilhas** podem ser o público ideal para upsell do **VBA**, aumentando receita por cliente.
 
 ### 📊 **5. Evolução Temporal**
 - O faturamento apresentou **crescimento médio de 8% ao mês**.  
