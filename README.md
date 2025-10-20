@@ -5,11 +5,13 @@ Projeto desenvolvido em **Microsoft Excel**, com o objetivo de analisar o desemp
 ---
 
 ## 🎯 Objetivo do Projeto
-Analisar as vendas de uma equipe comercial em diferentes regiões, avaliando:
-- O desempenho mensal em relação às metas;
-- Os vendedores e produtos mais rentáveis;
-- As regiões com melhor e pior performance;
-- E a evolução do faturamento ao longo do tempo.
+O projeto tem como objetivo analisar o desempenho de vendas da equipe comercial nos anos de **2019 a 2021**, com foco em:
+
+1. **Produtos mais vendidos e mais rentáveis** – identificar quais produtos geram maior faturamento.  
+2. **Desempenho dos vendedores** – avaliar quem mais contribui para as vendas e identificar oportunidades de melhoria.  
+3. **Comparação entre faturamento real e metas** – identificar meses de superação ou déficit em relação às metas.  
+4. **Evolução do faturamento ao longo do tempo** – compreender tendências, sazonalidades e ciclos de vendas.  
+5. **Geração de insights estratégicos** – fornecer informações para decisões comerciais mais assertivas.  
 
 ---
 
@@ -29,22 +31,21 @@ O projeto está contido em **um único arquivo Excel**, dividido nas seguintes a
 
 ---
 
-## 🧰 Ferramentas Utilizadas
-- **Microsoft Excel**
-  - Tabelas e Gráficos Dinâmicos  
-  - Segmentações de Dados (Slicers)  
-  - Funções de análise (PROCV, SOMASES, SE, etc.)  
-  - Formatação Condicional e Painel Interativo  
 
+## 🛠️ Como Utilizar
+
+1. Faça o download do arquivo `dashboard_vendas.xlsx`.  
+2. Abra no Microsoft Excel.  
+3. Atualize os dados de vendas, metas, produtos e vendedores conforme necessário.  
+4. Explore os dashboards para analisar o desempenho e extrair insights.  
 ---
 
 ## 📈 Análises Realizadas
-- Faturamento total e mensal por vendedor, região e produto;  
-- Comparativo **Meta x Realizado**;  
-- Evolução do faturamento ao longo do tempo;  
-- Identificação de produtos e vendedores mais rentáveis;  
-- Distribuição das vendas por região e categoria.
-
+- Faturamento total e mensal por **vendedor** e **produto**;  
+- Comparativo **Meta x Realizado** por mês e por vendedor;  
+- Evolução do faturamento ao longo dos anos **2019 a 2021**;  
+- Identificação de **produtos e vendedores mais rentáveis**;  
+- Geração de **insights estratégicos** a partir dos dados de vendas.  
 ---
 
 ## 💡 Principais Insights
