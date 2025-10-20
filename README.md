@@ -106,7 +106,7 @@ O painel interativo criado no Excel apresenta:
 - Faturamento por produto e região  
 - Filtros dinâmicos por período, vendedor e produto  
 
-![Dashboard Excel](imgs/dashboard.png)
+![Dashboard Excel](dashboard.png)
 
 > O dashboard fornece uma visão consolidada da performance comercial, facilitando a tomada de decisão baseada em dados.
 
