@@ -65,6 +65,8 @@ O projeto está contido em **um único arquivo Excel**, dividido nas seguintes a
 ---
 
 ### 👨‍💼 **2. Desempenho por Vendedor**
+ ![Desempenho por Vendedo](img/performace_vendedor.PNG)
+
 - **Alon** liderou as vendas com **R$ 112.200**, superando a média da equipe.  
 - **Gabriel** e **Marcus** apresentaram desempenho sólido, com valores próximos de **R$ 100 mil**.  
 - **João** ficou abaixo da média, indicando espaço para capacitação.  
@@ -74,6 +76,7 @@ O projeto está contido em **um único arquivo Excel**, dividido nas seguintes a
 ---
 
 ### 📘 **3. Desempenho por Produto**
+ ![Desempenho por Produto](img/receita_x_produto.PNG)
 - **Excel** e **VBA** representaram **45% da receita total**.  
 - **Python** manteve bom desempenho inicial, mas perdeu ritmo no segundo bimestre.  
 - **Power BI** apresentou crescimento constante, com potencial de expansão.
